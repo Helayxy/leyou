@@ -1,9 +1,3 @@
-# IntelliJ IDEA Project files
-.idea
-*.iml
-target/
-
-# leyou-manage-web
 .DS_Store
 node_modules/
 /dist/
