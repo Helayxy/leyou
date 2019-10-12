@@ -1,5 +1,5 @@
 # IntelliJ IDEA Project files
 .idea
 *.iml
-target/
+/target/
 
