@@ -41,7 +41,7 @@
   - 下单
   - 评价商品等
 - 前台系统我们会使用Nuxt结合Vue完成页面开发。出于SEO优化的考虑，我们将不采用单页应用。
-- 后台管理系统预览图：
+- 前台门户系统预览图：
 
 ![](https://github.com/Helayxy/leyou/blob/master/assets/03.png)
 
