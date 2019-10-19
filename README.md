@@ -14,7 +14,7 @@
 
 ##### 1.系统架构图：
 
-![](C:/Users/Administrator/Desktop/%E4%B9%90%E4%BC%98%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/assets/lysc.png)
+![](https://github.com/Helayxy/leyou/blob/master/assets/lysc.png)
 
 ##### 2.系统架构解读：
 
@@ -31,7 +31,7 @@
 - 后台系统会采用前后端分离开发，而且整个后台管理系统会使用Vue.js框架搭建出单页应用（SPA）。
 - 后台管理系统预览图：
 
-![](C:/Users/Administrator/Desktop/%E4%B9%90%E4%BC%98%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/assets/02.png)
+![](https://github.com/Helayxy/leyou/blob/master/assets/02.png)
 
 ###### 前台门户系统：
 
@@ -43,17 +43,17 @@
 - 前台系统我们会使用Nuxt结合Vue完成页面开发。出于SEO优化的考虑，我们将不采用单页应用。
 - 后台管理系统预览图：
 
-![](C:/Users/Administrator/Desktop/%E4%B9%90%E4%BC%98%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/assets/03.png)
+![](https://github.com/Helayxy/leyou/blob/master/assets/03.png)
 
 #### 三、项目结构：
 
 ##### 1.后台微服务目录结构图：
 
-![](C:/Users/Administrator/Desktop/%E4%B9%90%E4%BC%98%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/assets/08.png)
+![](https://github.com/Helayxy/leyou/blob/master/assets/08.png)
 
 ##### 2.后台微服务结构图及介绍：
 
-![](C:/Users/Administrator/Desktop/%E4%B9%90%E4%BC%98%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/assets/07.png)
+![](https://github.com/Helayxy/leyou/blob/master/assets/07.png)
 
 无论是前台还是后台系统，都共享相同的微服务集群，共11个微服务，如下所示：
 
@@ -146,7 +146,7 @@
 
 ##### 1.乐优项目文件介绍：
 
-![](C:/Users/Administrator/Desktop/%E4%B9%90%E4%BC%98%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/assets/01.png)
+![](https://github.com/Helayxy/leyou/blob/master/assets/01.png)
 
 ##### 2.启动elasticsearch服务器：
 
